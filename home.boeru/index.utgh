@@ -7,3 +7,4 @@ image#url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpiTRz2P9VRIp0h
 display#drawcircle:centerX$67::centerY$67::radius$41
 display#outlinecolor:FF0000
 display#drawstar:centerX$500::centerY$500::points$6::innerradius$60::rotation$0
+text#x:41`y:600`value:Testjcing my <l> icle rn`fontsize:80`color:FF0000
