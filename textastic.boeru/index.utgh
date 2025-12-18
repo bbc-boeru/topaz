@@ -5,5 +5,3 @@ backgroundcolor#000000
 text#x:41`y:400`value:Textastic! 2!`fontsize:80`color:FF00FF`angle:15
 image#url:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSpiTRz2P9VRIp0hK4UlHAfOOB50yLZFyteg&s
 display#drawcircle:centerX$67::centerY$67::radius$41
-display#outlinecolor:FF0000
-display#drawstar:centerX$500::centerY$500::points$6::innerradius$60::rotation$0
